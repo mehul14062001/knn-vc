@@ -132,7 +132,7 @@ Then, to train the HiFiGAN:
 ## **Update for local system**
 
 1. Download the [prematch_g_02500000.pt](https://github.com/bshall/knn-vc/releases/download/v0.1/g_02500000.pt) model and move it to the "hifigan" folder
-2. Download the [WavLM-Large.pt](https://github.com/bshall/knn-vc/releases/download/v0.1/prematch_g_02500000.pt) model and move it to the "wavlm" folder
+2. Download the [WavLM-Large.pt](https://github.com/bshall/knn-vc/releases/download/v0.1/WavLM-Large.pt) model and move it to the "wavlm" folder
 3. (If the models are in a different folder) Make sure to make any changes in the hubconf_offline.py file as mentioned here:
 
    ```python
