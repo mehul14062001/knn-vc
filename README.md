@@ -148,7 +148,7 @@ Then, to train the HiFiGAN:
 
    ```
 
-4. Run the knnvc_demo.py file (make sure to change the path for the source and refer3ence audio files)
+4. Run the knnvc_demo.py file (make sure to change the path for the source and reference audio files)
 
 
 ## Acknowledgements
